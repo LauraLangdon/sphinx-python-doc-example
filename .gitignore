@@ -4,3 +4,7 @@
 / .idea
 / .idea
 /.idea
+sphinx/.build
+sphinx/_build
+/sphinx/_build
+/sphinx/_build
