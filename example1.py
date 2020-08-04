@@ -17,4 +17,5 @@ def func2():
 
     :return: None
     """
+
     return None
