@@ -4,9 +4,10 @@
    contain the root `toctree` directive.
 
 Sphinx Documentation Website Example
-================================================================
+===============================================================================
 
-This is a description of this website. This is just an example for a tutorial.
+'This is a description of this website. This is just an example for a tutorial.'
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
