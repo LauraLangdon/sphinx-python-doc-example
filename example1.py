@@ -1,4 +1,5 @@
-def function_1(arg1, arg2):
+from typing import List
+def function_1(arg1, arg2) -> list:
     """
     This function takes two arguments, sets the first to equal the second, then returns the
     new first argument.
